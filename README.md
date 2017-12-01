@@ -2,6 +2,6 @@
 
 This is my Camera Effects Project.
 
-![picture_title](picture filename?raw=true "Optional Title")
+![Paulette](https://github.com/paulettelane/paulettelane.github.io/blob/master/Paulette.PNG?raw=true "Optional Title")
 
 ***
